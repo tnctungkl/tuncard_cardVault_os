@@ -226,3 +226,8 @@ The source archive's `TEST-REPORT.md` records that several lightweight packaging
 ## License
 
 This project is distributed under the MIT License. See [LICENSE](LICENSE) for the full text.
+
+## Author and related work
+
+        **Tunç KUL**
+    **Computer Engineer** 
